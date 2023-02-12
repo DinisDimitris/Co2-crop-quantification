@@ -2,11 +2,11 @@ Grid size, interpreted by the model as [start_cols,  start_rows,  end_cols,  end
 site_data.txt
 topography_data.txt
 number of times scenario in the model are to be executed (Default 1 1) 
-number of scenes in the next scenario (need to specify all files for the new scenarios)  number of times the current scenario is to be executed
+number of scenes in the next scenario (need to specify all files for the new scenarios),  number of times the current scenario is to be executed
 weather_data.txt
 weather_options.txt
 land_management.txt
-me01p
+plat_management.txt
 scch1
 scwh1
 NO

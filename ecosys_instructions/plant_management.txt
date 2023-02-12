@@ -1,0 +1,2 @@
+This line specifies coordinates for a grid cell (eg  1 1 1 1) followed by a line with the crop name and {find what me01p1}. Can specify as many grid cells u want here 
+maize  me01p1

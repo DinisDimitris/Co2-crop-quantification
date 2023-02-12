@@ -1,7 +1,7 @@
 start date of scenario DDMMYYYY
 end date of scenario DDMMYYYY
 start date of run DDMMYYYY
-YES
+generate files data (YES)
 generate checkpoint files (YES/NO)
 resume from earlier files (YES/NO)
 The next four lines contain annual changes in:

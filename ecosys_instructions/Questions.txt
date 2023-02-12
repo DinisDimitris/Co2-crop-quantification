@@ -9,3 +9,5 @@ Is this with respect to the terrain, eg whether its tiled or not?
 4. In the soil data, IXTYP=surface litter type:1=plant,2=manure. IXTYP takes in 2 values at index 1 and 2. In the dryland_maize example it takes in values 3 and 1 respectively.
 I am confused here as why there are 2 entries here, is there one for plant and one for manure and if so what does 3 and 1 stand for then? maybe g m^-1 or something like that?
 
+
+Why is koppen climate zone a numerical value? How do you count it? On wikipedia, I have only counted up to 30 but the maize example takes in 31
