@@ -11,3 +11,7 @@ I am confused here as why there are 2 entries here, is there one for plant and o
 
 
 Why is koppen climate zone a numerical value? How do you count it? On wikipedia, I have only counted up to 30 but the maize example takes in 31
+
+What does PFT stand for? Perfluorinated compound potentially?
+
+Whats up with years file?
