@@ -5,7 +5,7 @@ topography_data.txt
 number of times scenario in the model are to be executed (Default 1 1) 
 number of scenes in the next scenario (need to specify all files for the new scenarios),  number of times the current scenario is to be executed
 
-$1 // remove these symbols out when building a runfile
+$1 // remove these symbols when creating the runfile
 weather_data.txt
 weather_options.txt
 land_management.txt

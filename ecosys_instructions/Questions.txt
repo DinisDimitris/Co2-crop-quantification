@@ -14,4 +14,6 @@ Why is koppen climate zone a numerical value? How do you count it? On wikipedia,
 
 What does PFT stand for? Perfluorinated compound potentially?
 
-Whats up with years file?
+What is the 2 lines of the output represent? Also why are 100 Yes/No provided, as from the code it seems there are less than that that are actually read
+
+Whats up with years file I tried to understand it in code but couldnt?

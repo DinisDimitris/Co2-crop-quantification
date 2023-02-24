@@ -1,4 +1,4 @@
-latitude, altitude, mean avarage temperature (degrees celcius), water table flag ()
+latitude, altitude, mean avarage temperature (degrees celcius), water table flag
 
 atm O2,N2,CO2,CH4,N2O,NH3 (ppm)
 
@@ -21,7 +21,8 @@ water table flag:
 3,4=artificial stationary,mobile
 
 grid cells:
-	   1:lateral connections
+	   1:2d Transect as rows
+	   2:2D transect as cols
 	   3:no connections
 	   
 erosion options:

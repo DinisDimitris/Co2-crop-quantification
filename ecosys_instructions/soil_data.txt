@@ -1,4 +1,4 @@
-water potentials at field capacity ,wilting point (MPa), wet soil albedo, litter pH, [C,N,P] for each: fine(1,0),woody(0,0),manure(2,0) per surface litter (g m-2), surface litter type:1=plant,2=manure , number of soil surface layer, maximum rooting layer, number of additional layers below rooting layer with data file, number of additional layers below rooting layer without data file, soil profile (0= natural, 1 = reconstructed)
+[water potentials at field capacity], [wilting point (MPa)], [wet soil albedo], [litter pH], [C,N,P] for each: fine(1,0),woody(0,0),manure(2,0) per surface litter (g m-2), surface litter type for: [plant], [manure] , [number of soil surface layer], [maximum rooting layer], [number of additional layers below rooting layer with data file], [number of additional layers below rooting layer without data file], [soil profile (0= natural, 1 = reconstructed)]
 For each layer up to maximum rooting layer + number of soil surface layer + number of additional layers below rooting layer the following properties AS INT/FLOAT need to be specified:
 depth to bottom (m) 
 initial bulk density (Mg m-3,0=water) 
