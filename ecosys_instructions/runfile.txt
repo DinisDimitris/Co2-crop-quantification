@@ -10,13 +10,13 @@ weather_data.txt
 weather_options.txt
 land_management.txt
 plant_management.txt
-soil_output.txt (output file)
-atmospheric_output.txt (output file)
+soil_c_out.txt (output file)
+surf_water_out.txt (output file)
 n20_nh3_flux.txt (output file)
 phosphorus_flux.txt (output file)
-soil_output2.txt (output file)
-soil_output3.txt (output file)
-water_properties.txt (output file)
+atmosphere_out.txt(output file)
+flux_soc_out(output file)
+soil_water_properties.txt (output file)
 n_properties_output.txt (output file)
 p_properties_output.txt (output file)
 t_properties_output.txt (output file)
